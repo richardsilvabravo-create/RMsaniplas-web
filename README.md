@@ -186,3 +186,4 @@ footer {
     padding: 15px;
     margin-top: 30px;
 }
+WhatsApp Image 2025-12-04 at 14.38.25.jpeg
